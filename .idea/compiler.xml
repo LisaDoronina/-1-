@@ -13,7 +13,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="elizavetadoronina" target="21" />
       <module name="Homeworks" target="1.5" />
       <module name="maven" target="21" />
       <module name="maven-module" target="21" />
