@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c7ca67-7001-498f-bbf9-182e69c95f50" name="Changes" comment="pom.xml changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mipt/elizavetadoronina/Application.java" afterDir="false" />
+    <list default="true" id="97c7ca67-7001-498f-bbf9-182e69c95f50" name="Changes" comment="resolve errors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -68,14 +67,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Application">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Application" />
-      <module name="Homeworks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="com.mipt.elizavetadoronina.Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mipt.elizavetadoronina.Application" />
       <module name="Homeworks" />
@@ -91,7 +83,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application" />
         <item itemvalue="Application.com.mipt.elizavetadoronina.Application" />
       </list>
     </recent_temporary>
@@ -144,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757606093218</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="resolve errors">
+      <option name="closed" value="true" />
+      <created>1757607867288</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757607867288</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -178,6 +177,7 @@
     <MESSAGE value="Add Maven" />
     <MESSAGE value="Load maven project" />
     <MESSAGE value="pom.xml changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="pom.xml changes" />
+    <MESSAGE value="resolve errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolve errors" />
   </component>
 </project>
