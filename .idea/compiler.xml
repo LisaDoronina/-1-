@@ -9,11 +9,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Homeworks" />
         <module name="maven" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Homeworks" target="1.5" />
+      <module name="elizavetadoronina" target="21" />
       <module name="maven" target="21" />
       <module name="maven-module" target="21" />
     </bytecodeTargetLevel>
