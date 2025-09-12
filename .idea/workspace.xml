@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c7ca67-7001-498f-bbf9-182e69c95f50" name="Changes" comment="add yaml file for maven package">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="97c7ca67-7001-498f-bbf9-182e69c95f50" name="Changes" comment="edit pom.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mipt/elizavetadoronina/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/elizavetadoronina-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-elizavetadoronina-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +32,22 @@
     &quot;assignee&quot;: &quot;LisaDoronina&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/LisaDoronina/Homeworks.git&quot;,
-    &quot;accountId&quot;: &quot;d3f83e91-4061-42b1-8875-ff08fccb7a04&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LisaDoronina/Homeworks.git",
+    "accountId": "d3f83e91-4061-42b1-8875-ff08fccb7a04"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "LisaDoronina",
+    "repository": "Homeworks"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -166,7 +182,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757672435835</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="edit pom.xml">
+      <option name="closed" value="true" />
+      <created>1757672745538</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757672745538</updated>
+    </task>
+    <task id="LOCAL-00011" summary="edit pom.xml">
+      <option name="closed" value="true" />
+      <created>1757672868673</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757672868673</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -204,6 +236,7 @@
     <MESSAGE value="pom.xml changes (3)" />
     <MESSAGE value="commit" />
     <MESSAGE value="add yaml file for maven package" />
-    <option name="LAST_COMMIT_MESSAGE" value="add yaml file for maven package" />
+    <MESSAGE value="edit pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit pom.xml" />
   </component>
 </project>
